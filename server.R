@@ -11,7 +11,7 @@ colors = c("red", "yellow", "green", "violet", "blue")
 shinyServer(function(input, output) {
   
   # Fill in the spot we created for a plot
-  output$phonePlot <- renderPlot({
+  output$deathPlot <- renderPlot({
     
     # Render a barplot
     barplot(VADeaths[,input$ population_group]*1000, 

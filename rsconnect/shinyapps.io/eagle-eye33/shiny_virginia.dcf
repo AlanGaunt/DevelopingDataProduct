@@ -2,8 +2,8 @@ name: shiny_virginia
 account: eagle-eye33
 server: shinyapps.io
 appId: 81118
-bundleId: 362466
+bundleId: 362498
 url: https://eagle-eye33.shinyapps.io/shiny_virginia/
-when: 1454226853.588
+when: 1454231676.64474
 asMultiple: FALSE
 asStatic: FALSE
